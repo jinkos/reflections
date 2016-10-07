@@ -5,3 +5,20 @@ Commit!!!
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It is a directory subset that enables you to only commit those files that you think are ready
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I don't know why you need a staging area for that!!!
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+OK, already. I can see this could be useful
+
+How do the diagrams help you visualize the branch structure?
+
+They just do
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+auto - faster
+auto - can make mistakes!!
