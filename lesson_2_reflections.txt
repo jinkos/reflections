@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 Commit!!!
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It is a directory subset that enables you to only commit those files that you think are ready
